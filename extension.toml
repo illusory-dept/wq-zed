@@ -1,6 +1,6 @@
 id = "wq"
 name = "wq"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["tttiw"]
 description = "Language support for wq"
@@ -8,4 +8,4 @@ repository = "https://github.com/illusory-dept/wq-zed"
 
 [grammars.wq]
 repository = "https://github.com/illusory-dept/tree-sitter-wq"
-rev = "f0a6c6d6b5b538b4d4b1a3a9dd494bf2fe396a09"
+rev = "278ab9337b7792a2c2c0634f0660292205af880d"
