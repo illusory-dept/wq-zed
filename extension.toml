@@ -8,4 +8,4 @@ repository = "https://github.com/illusory-dept/wq-zed"
 
 [grammars.wq]
 repository = "https://github.com/illusory-dept/tree-sitter-wq"
-rev = "f9cacc50ffa5a401e7a1a530d17f10c683adfb45"
+rev = "4cf611569c58c9169074c8cc263cfb27cbc1a4ac"
